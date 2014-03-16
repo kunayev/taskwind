@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  task: MyText
+  completed: false
+  user_id: 
+  project_id: 
+
+two:
+  task: MyText
+  completed: false
+  user_id: 
+  project_id: 
