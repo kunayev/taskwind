@@ -6,4 +6,5 @@ class User < ActiveRecord::Base
   has_many :projects
   has_many :memberships
   belongs_to :project
+  has_many :tasks
 end
